@@ -23,7 +23,7 @@
   </thead>
   <tbody>
     <tr ng-repeat="entry in data | orderBy:sortType:sortReverse | filter:searchEntries">
-      <td>{{entry.date}}</td>
+      <td>{{entry.date | date:'yyyy-MM-dd'}}</td>
       <td>{{entry.recipient}}</td>
       <td><a ng-href="http://wod.wowhead.com/item={{entry.item.id}}" rel="bonus={{entry.item.bonuses.join(':')}}">{{entry.item.name}}</a></td>
     </tr>
