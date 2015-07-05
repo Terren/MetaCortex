@@ -32,4 +32,36 @@
     ]
   }
 }
+{
+		"date": "2015-06-21T18:50:25.076Z",
+		"recipient": "Avishar",
+		"item": {
+		"name": "Girdle of Demonic Wrath",
+		"id": 124350,
+		"difficulty": "normal",
+		"isWarforged": false,
+		"hasExtraSocket": false,
+		"hasAvoidance": false,
+		"hasLeech": false,
+		"hasSpeed": false,
+		"isIndestructible": false,
+		"bonuses": []
+		}
+	}
+	{
+		"date": "2015-06-21T18:50:25.076Z",
+		"recipient": "Enzuf",
+		"item": {
+		"name": "Jungle Flayer's Chestguard",
+		"id": 124281,
+		"difficulty": "normal",
+		"isWarforged": false,
+		"hasExtraSocket": false,
+		"hasAvoidance": false,
+		"hasLeech": false,
+		"hasSpeed": false,
+		"isIndestructible": false,
+		"bonuses": [2:563:42]
+		}
+	}
 ]
