@@ -1,38 +1,23 @@
 [
   {
-    "date": "2015-05-18",
-    "recipient": "Benevia",
-    "item": {"name": "Goren's Soul Repository", "id": 119194, "bonuses": [562, 567]}
+    "date": "2015-06-21T18:50:25.076Z",
+    "recipient": "Amarant",
+    "item": {
+      "name": "Acidic Jaws",
+      "id": 113880,
+      "difficulty": "heroic",
+      "isWarforged": true,
+      "hasExtraSocket": false,
+      "hasAvoidance": false,
+      "hasLeech": false,
+      "hasSpeed": false,
+      "isIndestructible": false,
+      "bonuses": [
+        562
+      ]
+    }
   },
   {
-    "date": "2015-06-18",
-    "recipient": "Avishar",
-    "item": {"name": "Earthbound Shield", "id": 116386, "bonuses": []}
-  },
-  {
-    "date": "2015-06-16",
-    "recipient": "Benevia",
-    "item": {"name": "Inferno-Flame Staff", "id": 113869, "bonuses": [566]}
-  },
-  {
-  "date": "2015-06-21T18:50:25.076Z",
-  "recipient": "Amarant",
-  "item": {
-    "name": "Acidic Jaws",
-    "id": 113880,
-    "difficulty": "heroic",
-    "isWarforged": true,
-    "hasExtraSocket": false,
-    "hasAvoidance": false,
-    "hasLeech": false,
-    "hasSpeed": false,
-    "isIndestructible": false,
-    "bonuses": [
-      562
-    ]
-  }
-}
-{
 		"date": "2015-06-21T18:50:25.076Z",
 		"recipient": "Avishar",
 		"item": {
@@ -47,7 +32,7 @@
 		"isIndestructible": false,
 		"bonuses": []
 		}
-	}
+	},
 	{
 		"date": "2015-06-21T18:50:25.076Z",
 		"recipient": "Enzuf",
@@ -61,8 +46,7 @@
 		"hasLeech": false,
 		"hasSpeed": false,
 		"isIndestructible": false,
-		"bonuses": [2:563:42]
+		"bonuses": [563, 42]
 		}
 	}
 ]
-
